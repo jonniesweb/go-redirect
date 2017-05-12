@@ -1,3 +1,6 @@
+# based off of https://gist.github.com/hSATAC/5343225
+# modified slightly to accept command line parameters
+
 package main
 
 import (
